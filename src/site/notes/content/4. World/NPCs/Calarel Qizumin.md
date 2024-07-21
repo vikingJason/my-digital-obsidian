@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/content/4-world/np-cs/calarel-qizumin/"}
+{"dg-publish":true,"permalink":"/content/4-world/np-cs/calarel-qizumin/","tags":["gardenEntry"]}
 ---
 
 
